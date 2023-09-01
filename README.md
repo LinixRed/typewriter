@@ -1,2 +1,4 @@
-# typewriter
-Typewriter for Python3 and above
+# TypeWriter
+
+Typewriter is like print but it has an Animation
+(rquires [sys])
